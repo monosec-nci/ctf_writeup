@@ -1,0 +1,9 @@
+Task: If I told you your grade was 0x41 in hexadecimal, what would it be in ASCII?
+
+Steps: The easiest way would be to find any online hex to ascii converter, and go from there. Alternatively, you can write a quick python script to do it for you as well.
+
+print "41".decode("hex")
+
+Running this in your terminal will print the letter "A".
+
+Flag: picoCTF{A}

@@ -1,0 +1,7 @@
+Task: What is 0x3D (base 16) in decimal (base 10). 
+
+Steps: As always, online tools will do the work for you, but just in case, I'll show the python one liner I used to do this. In python you can initialize an integer as hexadecimal by using int("0xFF",16). I used the same concept to find the decimal value of 0x3D.
+
+print int("0x3D",16)
+
+Flag: picoCTF{61}

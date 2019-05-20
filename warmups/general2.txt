@@ -1,0 +1,8 @@
+Task: Can you convert the number 27 (base 10) to binary (base 2)? 
+
+Steps: Again, an online tool would work in this scenario. Otherwise you can use a script to convert it or do it in your head. I'll show how to do it in your head here.
+
+0  0  0  0 -> This would represent a binary number. These are usually grouped into 4s for visibility. The rightmost number would represent the value 1, to the left 2, to the left of that 4, to the left of that 8, etc. In order to represent 27, we would need 24 + 2 + 1. So in your mind start from right to left. The result would be
+0 0 0 1 1 0 1 1. This can be shortened to 11011.
+
+Flag: picoCTF{11011}

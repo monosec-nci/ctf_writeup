@@ -1,0 +1,7 @@
+Forensics Warmup 1:
+
+Task: Can you unzip this file for me and retreive the flag? 
+
+Steps: Just unzip the file and extract the content. The archive contains an image named flag.jpg. Open the image and your flag is visible.
+
+Flag: picoCTF{welcome_to_forensics}

@@ -1,0 +1,7 @@
+Forensics Warmup 2
+
+Task: Hmm for some reason I can't open this PNG? Any ideas? 
+
+Steps: Remove the file ending by renaming the file. From there just open and it and the flag will appear from the image.
+
+Flag: picoCTF{extensions_are_a_lie}
